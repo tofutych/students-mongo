@@ -1,0 +1,64 @@
+[
+    {
+        "_id": {
+            "$oid": "63094b9843da6f4833f3c697"
+        },
+        "name": "Vladislav",
+        "speciality": "02.03.02",
+        "achievments": [
+            {
+                "title": "Хакатон",
+                "date": "01.01.2021",
+                "description": "description"
+            },
+            {
+                "title": "Съел 40 пельменей",
+                "date": "01.01.2021",
+                "description": "красавчик"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "63094b9843da6f4833f3c698"
+        },
+        "name": "Roman",
+        "speciality": "02.03.02",
+        "achievments": [
+            {
+                "title": "Устроился на работу",
+                "date": "01.01.2021",
+                "description": "Устроился на работу в Ростелеком"
+            },
+            {
+                "title": "Пробежал 1км без остановки",
+                "date": "01.01.2021",
+                "description": "красавчик"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "630955fe560ae46c8d19d643"
+        },
+        "name": "David",
+        "speciality": "02.03.02",
+        "achievments": [
+            {
+                "title": "Не спал 70 часов",
+                "date": " 27.08.2022",
+                "description": "clown"
+            },
+            {
+                "title": "Сделал эту прогу",
+                "date": "27.08.2022",
+                "description": "Сделал эту прогу за 3 часа!"
+            },
+            {
+                "title": "Потратил все лето впустую",
+                "date": "27.08.2022",
+                "description": "Считаю это достижением"
+            }
+        ]
+    }
+]
